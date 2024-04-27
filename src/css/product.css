@@ -1,0 +1,28 @@
+.product-container {
+  display: grid;
+  justify-items: center;
+}
+
+.product-form {
+  margin-top: 40px;
+  width: 500px;
+}
+
+.cart {
+  position: fixed;
+  bottom: 40px;
+  right: 50px;
+}
+
+@media (max-width: 700px) {
+  .product-form {
+    width: auto;
+  }
+}
+
+@media (max-width: 500px) {
+  .cart {
+    bottom: 20px;
+    right: 20px;
+  }
+}
