@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cafebara-customer-client/static/css/main.5df6e1ff.css",
+    "main.js": "/cafebara-customer-client/static/js/main.dd86fad1.js",
+    "static/js/239.deea3e4d.chunk.js": "/cafebara-customer-client/static/js/239.deea3e4d.chunk.js",
+    "static/js/213.4a10361d.chunk.js": "/cafebara-customer-client/static/js/213.4a10361d.chunk.js",
+    "static/js/732.e7a1514d.chunk.js": "/cafebara-customer-client/static/js/732.e7a1514d.chunk.js",
+    "static/js/453.2c78a6c2.chunk.js": "/cafebara-customer-client/static/js/453.2c78a6c2.chunk.js",
+    "static/media/main-bg.jpeg": "/cafebara-customer-client/static/media/main-bg.254ab658f51e8260568c.jpeg",
+    "index.html": "/cafebara-customer-client/index.html",
+    "main.5df6e1ff.css.map": "/cafebara-customer-client/static/css/main.5df6e1ff.css.map",
+    "main.dd86fad1.js.map": "/cafebara-customer-client/static/js/main.dd86fad1.js.map",
+    "239.deea3e4d.chunk.js.map": "/cafebara-customer-client/static/js/239.deea3e4d.chunk.js.map",
+    "213.4a10361d.chunk.js.map": "/cafebara-customer-client/static/js/213.4a10361d.chunk.js.map",
+    "732.e7a1514d.chunk.js.map": "/cafebara-customer-client/static/js/732.e7a1514d.chunk.js.map",
+    "453.2c78a6c2.chunk.js.map": "/cafebara-customer-client/static/js/453.2c78a6c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5df6e1ff.css",
+    "static/js/main.dd86fad1.js"
+  ]
+}
